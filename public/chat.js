@@ -1,5 +1,5 @@
 alert("gol")
-const socket = io('http://3.92.196.18:4000/');
+const socket = io('http://34.205.147.95:4000/');
 
 //DOM elements
 let message = document.getElementById('message');
